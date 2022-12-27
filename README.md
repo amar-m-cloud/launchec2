@@ -1,4 +1,4 @@
-# LAUNCH EC2 APPLICATION - PRASAD DOMALA
+# LAUNCH EC2 APPLICATION - AMAR MATTAPARTHI
 This application is used to launch specified number of EC2 instances on AWS Cloud.
 Instance details will be displayed once the instances transition into Running state.
 Launched instances can be terminated individually.
