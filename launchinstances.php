@@ -55,7 +55,7 @@ An option to delete the instances will be provided for each instance.
         <nav class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#">Launch EC2 Instances | Prasad Domala</a>
+                    <a class="navbar-brand" href="#">Launch EC2 Instances | Amar Mattaparthi</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
